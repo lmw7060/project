@@ -1,0 +1,1149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+ <objects>
+  <object id="9KyEWP/cIUKBKJRGRT8pQg" type="umlproject.uml"/>
+  <object id="zqZMp7qLjU+mtYnBDIMtEA" type="umlmodel.uml"/>
+  <object id="0yjCg6A8UEuCXwy38Y0inA" type="umlmodel.uml"/>
+  <object id="A9NQ9yilg0CZzCquq0F0pw" type="umlmodel.uml"/>
+  <object id="NPdPjyFB4E23WUOp+AGm1A" type="umlmodel.uml"/>
+  <object id="S2cdukpce0Oo5m+vFni2YQ" type="umlmodel.uml"/>
+  <object id="iqU2tDnY/kC/EPp89ItYDA" type="umlmodel.uml"/>
+  <object id="7ZUTvojeREiClfnEJYk3NQ" type="umlmodel.uml"/>
+  <object id="qijaLM9o6UuhN1rf1Pq2gA" type="reqrequirementdiagram.REQ"/>
+  <object id="AyEtA/3DEUiJxiHmcoEU5Q" type="reqrequirementdiagramview.REQ"/>
+  <object id="GlIvcZ5TWE24OZgNn0EC3Q" type="umlusecasediagram.uml"/>
+  <object id="KooJhMynj06e1kj115MkFQ" type="umlusecasediagramview.uml"/>
+  <object id="BZMoiUGE6kmUqazhfyI4Nw" type="umlrobustnessdiagram.uml"/>
+  <object id="AhZ3/kM4k0aphHCasRmGqw" type="umlrobustnessdiagramview.uml"/>
+  <object id="KhnfiK7RBEmpWwaxdXC+7w" type="umlclassdiagram.uml"/>
+  <object id="sw5XixNDqk2CYrakN1/0NQ" type="umlclassdiagramview.uml"/>
+  <object id="hkIipWaq5UW0dV9upsShyQ" type="umlcomponentdiagram.uml"/>
+  <object id="XhK6GPPRVkCofOnJ1T4nTg" type="umlcomponentdiagramview.uml"/>
+  <object id="EOvT25xyh0O+XARnYbDdhw" type="umldeploymentdiagram.uml"/>
+  <object id="Be/LJ7GnPE+LAh131AUR2g" type="umldeploymentdiagramview.uml"/>
+  <object id="Mw22nHsUvUW1lv0XEogngA" type="testtestmodel.TEST"/>
+  <object id="iPVluT+mNkSKTlZf2e9zyg" type="umlsystem.uml"/>
+  <object id="Ydrjzl/xKkW90vgXcsiwGw" type="umlsystemview.uml"/>
+  <object id="LQp1vKiZHUmr5R/dsjxNpw" type="umlactor.uml"/>
+  <object id="4nyIZPteaku/CGULQFAnXQ" type="umlactorview.uml"/>
+  <object id="rgk0YVyY40qMMa4aExc16w" type="umlactor.uml"/>
+  <object id="xRLv1IiZZ0OkyOXWjOWyLQ" type="umlactorview.uml"/>
+  <object id="S+zyI9nLakCQjDXUPBMI5Q" type="umlusecase.uml"/>
+  <object id="wXNuMrQ01EKLb/mIh8AvNA" type="umlusecaseview.uml"/>
+  <object id="3iSUnzA5lEyOumuWBQ9Rbg" type="umlusecase.uml"/>
+  <object id="77peCxPBYEW/6XlNZyit7w" type="umlusecaseview.uml"/>
+  <object id="0vEny+gN6UCLX+/z2ON5bQ" type="umlusecase.uml"/>
+  <object id="sfpGcocK9k6uBK/pLE7KmQ" type="umlusecaseview.uml"/>
+  <object id="BJdLI3FU40CBD3Qe9E5Wiw" type="umlassociationview.uml"/>
+  <object id="b+tRIf1MLk+KVWNh+aKLfQ" type="textview.core"/>
+  <object id="SU2ZeXl5kEq3XWBvXP00uw" type="textview.core"/>
+  <object id="nT+8j/HbrUyqpf6/kw3fmw" type="textview.core"/>
+  <object id="Rxb0T1TlsU6dVmk7C3PkBA" type="textview.core"/>
+  <object id="wSwrb+ElO0+gam2LjXsB2w" type="textview.core"/>
+  <object id="j7qVeYtUE0y23Remv/ZRgg" type="textview.core"/>
+  <object id="rq50fQIXMUOOh/T2+lAzhg" type="rectview.core"/>
+  <object id="FA2gBfKzV0iLjp6Axw98uw" type="textcompartmentview.core"/>
+  <object id="0JbIaZqq20iauwngAoT7QA" type="rectview.core"/>
+  <object id="yMEBpvQFZEu9ADPj2i1HRQ" type="textcompartmentview.core"/>
+  <object id="GmeurFOspU2oTBssDYv6mw" type="umlassociationview.uml"/>
+  <object id="djaWAOTLkEGld6coWk0iHg" type="textview.core"/>
+  <object id="9stZvgnZeUu1crHITxk6tQ" type="textview.core"/>
+  <object id="7TLF4WTZkUiMnbXB+3nH9A" type="textview.core"/>
+  <object id="6lULO40tz0Cyq54z+3qLtw" type="textview.core"/>
+  <object id="YKRyChwT/0iqkx18VFQdYA" type="textview.core"/>
+  <object id="kGPy0N6mOky1aO68UKz9Kg" type="textview.core"/>
+  <object id="VnGnBbgDFkC6XCwyztmTYQ" type="rectview.core"/>
+  <object id="GLaBPyE58kCy2E0mur18Dw" type="textcompartmentview.core"/>
+  <object id="0j0LLKf97E6KZHJv0RnrDw" type="rectview.core"/>
+  <object id="yLwPW25OOEmssvLNjA2C/w" type="textcompartmentview.core"/>
+  <object id="xVZU4qCB60ez1I+iGeTXUA" type="umldependencyview.uml"/>
+  <object id="m/Re9lnotkyGFDJ9sSL5cw" type="textview.core"/>
+  <object id="XzrPVVGOD0a563arp97tcg" type="textview.core"/>
+  <object id="CRjyA4/DMEa6G5a00Y/vKA" type="umlusecase.uml"/>
+  <object id="ZHgxnv8vt0W5mhoLq+WYjg" type="umlusecaseview.uml"/>
+  <object id="nHKcEb8QtUCcOi39uFoLcQ" type="umlgeneralizationview.uml"/>
+  <object id="6vu/Ev9eNUWw3Lutv84a7w" type="textview.core"/>
+  <object id="1CfmlapjkUKE3jFmCg9mRA" type="textview.core"/>
+  <object id="bYLHsRDoN0m8MZMOaEMTtQ" type="umlusecase.uml"/>
+  <object id="RnBu7bqa8UyorhsGYCk7bg" type="umlusecaseview.uml"/>
+  <object id="l9YhWXajLE270W2vEAqEYw" type="umlassociationview.uml"/>
+  <object id="sgq+wPec80ySdmKigvMYTQ" type="textview.core"/>
+  <object id="Nl7n/Npb5k+EFtnh1GxcFw" type="textview.core"/>
+  <object id="hg9kf86h5k+Y318/uBft4w" type="textview.core"/>
+  <object id="YlxqYQuHuUa3TpFt3uxYnA" type="textview.core"/>
+  <object id="b3RFo192ukefSmSMQd1CPw" type="textview.core"/>
+  <object id="CkyWNORHpUSKpbd3qz8f8w" type="textview.core"/>
+  <object id="oBlLw5+bgkqSGxhM0up1Sw" type="rectview.core"/>
+  <object id="yFdM/n58Y0ehoKEaTVYuJQ" type="textcompartmentview.core"/>
+  <object id="gt/H0md6SEy2eahtILnQSg" type="rectview.core"/>
+  <object id="yD5En1u0bUOz9E75ERciEw" type="textcompartmentview.core"/>
+  <object id="nFS3Qse7AE6Vp9Gl46BdQg" type="umlusecase.uml"/>
+  <object id="RNQVTSdutEShC4O8Q6F46g" type="umlusecaseview.uml"/>
+  <object id="xFBLNaaHfE+Ra14PPE4aKw" type="umlusecase.uml"/>
+  <object id="euzUPU8Vb0+cvT6jXJtdBw" type="umlusecaseview.uml"/>
+  <object id="MNhnsYBFK0a8e4Snwk14Cg" type="umlusecase.uml"/>
+  <object id="B0iSJTCW5Umm4a+do9inSQ" type="umlusecaseview.uml"/>
+  <object id="cTZfgDXC2kamzj+VPVRlJw" type="umldependencyview.uml"/>
+  <object id="BTE7epMLEUeZ9ETRa1qIaw" type="textview.core"/>
+  <object id="EKNNPEYvmEmUbw8hAk51NA" type="textview.core"/>
+  <object id="k4Vh/KOfD0qAfU42vrpX/g" type="umldependencyview.uml"/>
+  <object id="yt6SSd5bT0eVDBni2g5axg" type="textview.core"/>
+  <object id="yCZIMvHSH02CjPT/aU3ejg" type="textview.core"/>
+  <object id="tfS/4hfCYkWe5ryOF8aP7A" type="umldependencyview.uml"/>
+  <object id="2hNGtrlbU0Kwgps8n7CyEw" type="textview.core"/>
+  <object id="GtOOLElXME+R9mH0qHZMZA" type="textview.core"/>
+  <object id="D9W2m6F+YUyNoQU5+cu3Pg" type="umlusecase.uml"/>
+  <object id="F0SXkPlrtk+zCSfi3Ggpew" type="umlusecase.uml"/>
+  <object id="FNQAgoQvCUmXWPr7OUswvw" type="umlusecaseview.uml"/>
+  <object id="CdwpJm0NpUCVNmQx1Y+xWw" type="umlassociationview.uml"/>
+  <object id="teIYjgByV0KDYv/9BDy3jw" type="textview.core"/>
+  <object id="9xoe2OQ/2k+rUdPWtYKiyA" type="textview.core"/>
+  <object id="TH8Iep+nHU+lg8t4QSZMPA" type="textview.core"/>
+  <object id="n0aBhDyBiUi2ZQpx76XsKQ" type="textview.core"/>
+  <object id="zCeP+0JcjEeyMqU1AJHkdw" type="textview.core"/>
+  <object id="lltGvaqkbkCZ/SFlrUDwUA" type="textview.core"/>
+  <object id="3iseWDX7JEO2x9j39+96Pw" type="rectview.core"/>
+  <object id="hTFv0eSs3kanUTFIxNDoGw" type="textcompartmentview.core"/>
+  <object id="pPqnqT2IJk2jHKA4r3tZHw" type="rectview.core"/>
+  <object id="n9MUzbME4kmxLYYiPFlWlg" type="textcompartmentview.core"/>
+  <object id="mnuoPgYEjU6EQPrPekCvxQ" type="umlusecase.uml"/>
+  <object id="Wue2gejuWUmq4CIeyyPvEQ" type="umlusecaseview.uml"/>
+  <object id="DJykXrqwi0WJ9mpQFhO75Q" type="umlusecase.uml"/>
+  <object id="52yzln4anEG5BtYqKExsLQ" type="umlusecaseview.uml"/>
+  <object id="mPgTfIKa00m6yYH4c4/gZw" type="umldependencyview.uml"/>
+  <object id="inVNrcQQAUuwPU313bvQcQ" type="textview.core"/>
+  <object id="7I97uBVPBUG8yvrBuZFxkA" type="textview.core"/>
+  <object id="nrxzlkrZ5UKmQ+TPF3Pa+w" type="umldependencyview.uml"/>
+  <object id="bjgE4O+3M0Wxuh7Tg2uElA" type="textview.core"/>
+  <object id="LEG9lcjjB0m7slNFgWl/Bw" type="textview.core"/>
+ </objects>
+ <relations>
+  <relation from="rgk0YVyY40qMMa4aExc16w" id="QYOj0Sef00GswDqFecgpOg" to="S+zyI9nLakCQjDXUPBMI5Q" type="umlassociation.umlclassifier.umlclassifier.uml"/>
+  <relation from="LQp1vKiZHUmr5R/dsjxNpw" id="dXBSJXmPAEqBIhhHf7HeTw" to="3iSUnzA5lEyOumuWBQ9Rbg" type="umlassociation.umlclassifier.umlclassifier.uml"/>
+  <relation from="S+zyI9nLakCQjDXUPBMI5Q" id="SeZm1peQTkOn4f8msZ1q9g" to="0vEny+gN6UCLX+/z2ON5bQ" type="umldependency.model.model.uml"/>
+  <relation from="0vEny+gN6UCLX+/z2ON5bQ" id="AqTEiv4GWES+8ViBQHa6cA" to="CRjyA4/DMEa6G5a00Y/vKA" type="umlgeneralization.model.model.uml"/>
+  <relation from="LQp1vKiZHUmr5R/dsjxNpw" id="JF2FI9U1q0u6TV4MUGxamg" to="bYLHsRDoN0m8MZMOaEMTtQ" type="umlassociation.umlclassifier.umlclassifier.uml"/>
+  <relation from="bYLHsRDoN0m8MZMOaEMTtQ" id="imiNPltsRUmhgH8lc6Nquw" to="MNhnsYBFK0a8e4Snwk14Cg" type="umldependency.model.model.uml"/>
+  <relation from="3iSUnzA5lEyOumuWBQ9Rbg" id="Wq1bRwH6yEOO6DvJrZhT+A" to="nFS3Qse7AE6Vp9Gl46BdQg" type="umldependency.model.model.uml"/>
+  <relation from="3iSUnzA5lEyOumuWBQ9Rbg" id="rsU2VNcd2kW97BS4IuLitQ" to="xFBLNaaHfE+Ra14PPE4aKw" type="umldependency.model.model.uml"/>
+  <relation from="iPVluT+mNkSKTlZf2e9zyg" id="bK3dH5tklEmuufBfe1Y7Ww" to="iPVluT+mNkSKTlZf2e9zyg" type="umldependency.model.model.uml"/>
+  <relation from="nFS3Qse7AE6Vp9Gl46BdQg" id="rFMoNFlrFE6xENA3DkGCqQ" to="D9W2m6F+YUyNoQU5+cu3Pg" type="umldependency.model.model.uml"/>
+  <relation from="LQp1vKiZHUmr5R/dsjxNpw" id="bqm18ZteokmavZt+czr39A" to="F0SXkPlrtk+zCSfi3Ggpew" type="umlassociation.umlclassifier.umlclassifier.uml"/>
+  <relation from="F0SXkPlrtk+zCSfi3Ggpew" id="4j5/esWOykuDckDTjTr2qQ" to="mnuoPgYEjU6EQPrPekCvxQ" type="umldependency.model.model.uml"/>
+  <relation from="F0SXkPlrtk+zCSfi3Ggpew" id="ycEp9h+upki+fgIDF0wBcg" to="DJykXrqwi0WJ9mpQFhO75Q" type="umldependency.model.model.uml"/>
+ </relations>
+ <references>
+  <reference from="9KyEWP/cIUKBKJRGRT8pQg" to="0yjCg6A8UEuCXwy38Y0inA" type="owner.models.package.model.core"/>
+  <reference from="9KyEWP/cIUKBKJRGRT8pQg" to="A9NQ9yilg0CZzCquq0F0pw" type="owner.models.package.model.core"/>
+  <reference from="9KyEWP/cIUKBKJRGRT8pQg" to="NPdPjyFB4E23WUOp+AGm1A" type="owner.models.package.model.core"/>
+  <reference from="9KyEWP/cIUKBKJRGRT8pQg" to="S2cdukpce0Oo5m+vFni2YQ" type="owner.models.package.model.core"/>
+  <reference from="9KyEWP/cIUKBKJRGRT8pQg" to="iqU2tDnY/kC/EPp89ItYDA" type="owner.models.package.model.core"/>
+  <reference from="0yjCg6A8UEuCXwy38Y0inA" to="GlIvcZ5TWE24OZgNn0EC3Q" type="owner.diagrams.package.diagram.core"/>
+  <reference from="GlIvcZ5TWE24OZgNn0EC3Q" to="KooJhMynj06e1kj115MkFQ" type="model.views.umlusecasediagram.umlusecasediagramview.uml"/>
+  <reference from="A9NQ9yilg0CZzCquq0F0pw" to="BZMoiUGE6kmUqazhfyI4Nw" type="owner.diagrams.package.diagram.core"/>
+  <reference from="BZMoiUGE6kmUqazhfyI4Nw" to="AhZ3/kM4k0aphHCasRmGqw" type="model.views.umlrobustnessdiagram.umlrobustnessdiagramview.uml"/>
+  <reference from="NPdPjyFB4E23WUOp+AGm1A" to="KhnfiK7RBEmpWwaxdXC+7w" type="owner.diagrams.package.diagram.core"/>
+  <reference from="KhnfiK7RBEmpWwaxdXC+7w" to="sw5XixNDqk2CYrakN1/0NQ" type="model.views.umlclassdiagram.umlclassdiagramview.uml"/>
+  <reference from="S2cdukpce0Oo5m+vFni2YQ" to="hkIipWaq5UW0dV9upsShyQ" type="owner.diagrams.package.diagram.core"/>
+  <reference from="hkIipWaq5UW0dV9upsShyQ" to="XhK6GPPRVkCofOnJ1T4nTg" type="model.views.umlcomponentdiagram.umlcomponentdiagramview.uml"/>
+  <reference from="iqU2tDnY/kC/EPp89ItYDA" to="EOvT25xyh0O+XARnYbDdhw" type="owner.diagrams.package.diagram.core"/>
+  <reference from="EOvT25xyh0O+XARnYbDdhw" to="Be/LJ7GnPE+LAh131AUR2g" type="model.views.umldeploymentdiagram.umldeploymentdiagramview.uml"/>
+  <reference from="9KyEWP/cIUKBKJRGRT8pQg" to="zqZMp7qLjU+mtYnBDIMtEA" type="owner.models.package.model.core"/>
+  <reference from="zqZMp7qLjU+mtYnBDIMtEA" to="qijaLM9o6UuhN1rf1Pq2gA" type="owner.diagrams.package.diagram.core"/>
+  <reference from="qijaLM9o6UuhN1rf1Pq2gA" to="AyEtA/3DEUiJxiHmcoEU5Q" type="model.views.reqrequirementdiagram.reqrequirementdiagramview.REQ"/>
+  <reference from="9KyEWP/cIUKBKJRGRT8pQg" to="7ZUTvojeREiClfnEJYk3NQ" type="owner.models.package.model.core"/>
+  <reference from="7ZUTvojeREiClfnEJYk3NQ" to="Mw22nHsUvUW1lv0XEogngA" type="owner.models.package.model.core"/>
+  <reference from="0yjCg6A8UEuCXwy38Y0inA" to="iPVluT+mNkSKTlZf2e9zyg" type="owner.models.package.model.core"/>
+  <reference from="iPVluT+mNkSKTlZf2e9zyg" to="Ydrjzl/xKkW90vgXcsiwGw" type="model.views.umlsystem.umlsystemview.uml"/>
+  <reference from="KooJhMynj06e1kj115MkFQ" to="Ydrjzl/xKkW90vgXcsiwGw" type="diagram.nodes.umlusecasediagramview.umlsystemview.uml"/>
+  <reference from="0yjCg6A8UEuCXwy38Y0inA" to="LQp1vKiZHUmr5R/dsjxNpw" type="owner.models.package.model.core"/>
+  <reference from="LQp1vKiZHUmr5R/dsjxNpw" to="4nyIZPteaku/CGULQFAnXQ" type="model.views.umlactor.umlactorview.uml"/>
+  <reference from="KooJhMynj06e1kj115MkFQ" to="4nyIZPteaku/CGULQFAnXQ" type="diagram.nodes.umlusecasediagramview.umlactorview.uml"/>
+  <reference from="0yjCg6A8UEuCXwy38Y0inA" to="rgk0YVyY40qMMa4aExc16w" type="owner.models.package.model.core"/>
+  <reference from="rgk0YVyY40qMMa4aExc16w" to="xRLv1IiZZ0OkyOXWjOWyLQ" type="model.views.umlactor.umlactorview.uml"/>
+  <reference from="KooJhMynj06e1kj115MkFQ" to="xRLv1IiZZ0OkyOXWjOWyLQ" type="diagram.nodes.umlusecasediagramview.umlactorview.uml"/>
+  <reference from="0yjCg6A8UEuCXwy38Y0inA" to="S+zyI9nLakCQjDXUPBMI5Q" type="owner.models.package.model.core"/>
+  <reference from="S+zyI9nLakCQjDXUPBMI5Q" to="wXNuMrQ01EKLb/mIh8AvNA" type="model.views.umlusecase.umlusecaseview.uml"/>
+  <reference from="Ydrjzl/xKkW90vgXcsiwGw" to="wXNuMrQ01EKLb/mIh8AvNA" type="container.containedviews.umlsystemview.umlusecaseview.uml"/>
+  <reference from="0yjCg6A8UEuCXwy38Y0inA" to="3iSUnzA5lEyOumuWBQ9Rbg" type="owner.models.package.model.core"/>
+  <reference from="3iSUnzA5lEyOumuWBQ9Rbg" to="77peCxPBYEW/6XlNZyit7w" type="model.views.umlusecase.umlusecaseview.uml"/>
+  <reference from="Ydrjzl/xKkW90vgXcsiwGw" to="77peCxPBYEW/6XlNZyit7w" type="container.containedviews.umlsystemview.umlusecaseview.uml"/>
+  <reference from="0yjCg6A8UEuCXwy38Y0inA" to="0vEny+gN6UCLX+/z2ON5bQ" type="owner.models.package.model.core"/>
+  <reference from="0vEny+gN6UCLX+/z2ON5bQ" to="sfpGcocK9k6uBK/pLE7KmQ" type="model.views.umlusecase.umlusecaseview.uml"/>
+  <reference from="Ydrjzl/xKkW90vgXcsiwGw" to="sfpGcocK9k6uBK/pLE7KmQ" type="container.containedviews.umlsystemview.umlusecaseview.uml"/>
+  <reference from="BJdLI3FU40CBD3Qe9E5Wiw" to="b+tRIf1MLk+KVWNh+aKLfQ" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="BJdLI3FU40CBD3Qe9E5Wiw" to="SU2ZeXl5kEq3XWBvXP00uw" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="BJdLI3FU40CBD3Qe9E5Wiw" to="nT+8j/HbrUyqpf6/kw3fmw" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="BJdLI3FU40CBD3Qe9E5Wiw" to="Rxb0T1TlsU6dVmk7C3PkBA" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="BJdLI3FU40CBD3Qe9E5Wiw" to="wSwrb+ElO0+gam2LjXsB2w" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="BJdLI3FU40CBD3Qe9E5Wiw" to="j7qVeYtUE0y23Remv/ZRgg" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="rq50fQIXMUOOh/T2+lAzhg" to="FA2gBfKzV0iLjp6Axw98uw" type="owner.subviews.nodeview.nodeview.core"/>
+  <reference from="BJdLI3FU40CBD3Qe9E5Wiw" to="rq50fQIXMUOOh/T2+lAzhg" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="0JbIaZqq20iauwngAoT7QA" to="yMEBpvQFZEu9ADPj2i1HRQ" type="owner.subviews.nodeview.nodeview.core"/>
+  <reference from="BJdLI3FU40CBD3Qe9E5Wiw" to="0JbIaZqq20iauwngAoT7QA" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="BJdLI3FU40CBD3Qe9E5Wiw" to="xRLv1IiZZ0OkyOXWjOWyLQ" type="outgoing.head.edgeview.nodeview.core"/>
+  <reference from="BJdLI3FU40CBD3Qe9E5Wiw" to="wXNuMrQ01EKLb/mIh8AvNA" type="incoming.tail.edgeview.nodeview.core"/>
+  <reference from="KooJhMynj06e1kj115MkFQ" to="BJdLI3FU40CBD3Qe9E5Wiw" type="diagram.edges.umlusecasediagramview.umlassociationview.uml"/>
+  <reference from="QYOj0Sef00GswDqFecgpOg" to="BJdLI3FU40CBD3Qe9E5Wiw" type="model.views.umlassociation.umlassociationview.uml"/>
+  <reference from="GmeurFOspU2oTBssDYv6mw" to="djaWAOTLkEGld6coWk0iHg" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="GmeurFOspU2oTBssDYv6mw" to="9stZvgnZeUu1crHITxk6tQ" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="GmeurFOspU2oTBssDYv6mw" to="7TLF4WTZkUiMnbXB+3nH9A" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="GmeurFOspU2oTBssDYv6mw" to="6lULO40tz0Cyq54z+3qLtw" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="GmeurFOspU2oTBssDYv6mw" to="YKRyChwT/0iqkx18VFQdYA" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="GmeurFOspU2oTBssDYv6mw" to="kGPy0N6mOky1aO68UKz9Kg" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="VnGnBbgDFkC6XCwyztmTYQ" to="GLaBPyE58kCy2E0mur18Dw" type="owner.subviews.nodeview.nodeview.core"/>
+  <reference from="GmeurFOspU2oTBssDYv6mw" to="VnGnBbgDFkC6XCwyztmTYQ" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="0j0LLKf97E6KZHJv0RnrDw" to="yLwPW25OOEmssvLNjA2C/w" type="owner.subviews.nodeview.nodeview.core"/>
+  <reference from="GmeurFOspU2oTBssDYv6mw" to="0j0LLKf97E6KZHJv0RnrDw" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="GmeurFOspU2oTBssDYv6mw" to="4nyIZPteaku/CGULQFAnXQ" type="outgoing.head.edgeview.nodeview.core"/>
+  <reference from="GmeurFOspU2oTBssDYv6mw" to="77peCxPBYEW/6XlNZyit7w" type="incoming.tail.edgeview.nodeview.core"/>
+  <reference from="KooJhMynj06e1kj115MkFQ" to="GmeurFOspU2oTBssDYv6mw" type="diagram.edges.umlusecasediagramview.umlassociationview.uml"/>
+  <reference from="dXBSJXmPAEqBIhhHf7HeTw" to="GmeurFOspU2oTBssDYv6mw" type="model.views.umlassociation.umlassociationview.uml"/>
+  <reference from="xVZU4qCB60ez1I+iGeTXUA" to="m/Re9lnotkyGFDJ9sSL5cw" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="xVZU4qCB60ez1I+iGeTXUA" to="XzrPVVGOD0a563arp97tcg" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="xVZU4qCB60ez1I+iGeTXUA" to="wXNuMrQ01EKLb/mIh8AvNA" type="outgoing.head.edgeview.nodeview.core"/>
+  <reference from="xVZU4qCB60ez1I+iGeTXUA" to="sfpGcocK9k6uBK/pLE7KmQ" type="incoming.tail.edgeview.nodeview.core"/>
+  <reference from="KooJhMynj06e1kj115MkFQ" to="xVZU4qCB60ez1I+iGeTXUA" type="diagram.edges.umlusecasediagramview.umldependencyview.uml"/>
+  <reference from="SeZm1peQTkOn4f8msZ1q9g" to="xVZU4qCB60ez1I+iGeTXUA" type="model.views.umldependency.umldependencyview.uml"/>
+  <reference from="0yjCg6A8UEuCXwy38Y0inA" to="CRjyA4/DMEa6G5a00Y/vKA" type="owner.models.package.model.core"/>
+  <reference from="CRjyA4/DMEa6G5a00Y/vKA" to="ZHgxnv8vt0W5mhoLq+WYjg" type="model.views.umlusecase.umlusecaseview.uml"/>
+  <reference from="Ydrjzl/xKkW90vgXcsiwGw" to="ZHgxnv8vt0W5mhoLq+WYjg" type="container.containedviews.umlsystemview.umlusecaseview.uml"/>
+  <reference from="nHKcEb8QtUCcOi39uFoLcQ" to="6vu/Ev9eNUWw3Lutv84a7w" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="nHKcEb8QtUCcOi39uFoLcQ" to="1CfmlapjkUKE3jFmCg9mRA" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="nHKcEb8QtUCcOi39uFoLcQ" to="sfpGcocK9k6uBK/pLE7KmQ" type="outgoing.head.edgeview.nodeview.core"/>
+  <reference from="nHKcEb8QtUCcOi39uFoLcQ" to="ZHgxnv8vt0W5mhoLq+WYjg" type="incoming.tail.edgeview.nodeview.core"/>
+  <reference from="KooJhMynj06e1kj115MkFQ" to="nHKcEb8QtUCcOi39uFoLcQ" type="diagram.edges.umlusecasediagramview.umlgeneralizationview.uml"/>
+  <reference from="AqTEiv4GWES+8ViBQHa6cA" to="nHKcEb8QtUCcOi39uFoLcQ" type="model.views.umlgeneralization.umlgeneralizationview.uml"/>
+  <reference from="0yjCg6A8UEuCXwy38Y0inA" to="bYLHsRDoN0m8MZMOaEMTtQ" type="owner.models.package.model.core"/>
+  <reference from="bYLHsRDoN0m8MZMOaEMTtQ" to="RnBu7bqa8UyorhsGYCk7bg" type="model.views.umlusecase.umlusecaseview.uml"/>
+  <reference from="Ydrjzl/xKkW90vgXcsiwGw" to="RnBu7bqa8UyorhsGYCk7bg" type="container.containedviews.umlsystemview.umlusecaseview.uml"/>
+  <reference from="l9YhWXajLE270W2vEAqEYw" to="sgq+wPec80ySdmKigvMYTQ" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="l9YhWXajLE270W2vEAqEYw" to="Nl7n/Npb5k+EFtnh1GxcFw" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="l9YhWXajLE270W2vEAqEYw" to="hg9kf86h5k+Y318/uBft4w" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="l9YhWXajLE270W2vEAqEYw" to="YlxqYQuHuUa3TpFt3uxYnA" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="l9YhWXajLE270W2vEAqEYw" to="b3RFo192ukefSmSMQd1CPw" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="l9YhWXajLE270W2vEAqEYw" to="CkyWNORHpUSKpbd3qz8f8w" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="oBlLw5+bgkqSGxhM0up1Sw" to="yFdM/n58Y0ehoKEaTVYuJQ" type="owner.subviews.nodeview.nodeview.core"/>
+  <reference from="l9YhWXajLE270W2vEAqEYw" to="oBlLw5+bgkqSGxhM0up1Sw" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="gt/H0md6SEy2eahtILnQSg" to="yD5En1u0bUOz9E75ERciEw" type="owner.subviews.nodeview.nodeview.core"/>
+  <reference from="l9YhWXajLE270W2vEAqEYw" to="gt/H0md6SEy2eahtILnQSg" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="l9YhWXajLE270W2vEAqEYw" to="4nyIZPteaku/CGULQFAnXQ" type="outgoing.head.edgeview.nodeview.core"/>
+  <reference from="l9YhWXajLE270W2vEAqEYw" to="RnBu7bqa8UyorhsGYCk7bg" type="incoming.tail.edgeview.nodeview.core"/>
+  <reference from="KooJhMynj06e1kj115MkFQ" to="l9YhWXajLE270W2vEAqEYw" type="diagram.edges.umlusecasediagramview.umlassociationview.uml"/>
+  <reference from="JF2FI9U1q0u6TV4MUGxamg" to="l9YhWXajLE270W2vEAqEYw" type="model.views.umlassociation.umlassociationview.uml"/>
+  <reference from="0yjCg6A8UEuCXwy38Y0inA" to="nFS3Qse7AE6Vp9Gl46BdQg" type="owner.models.package.model.core"/>
+  <reference from="nFS3Qse7AE6Vp9Gl46BdQg" to="RNQVTSdutEShC4O8Q6F46g" type="model.views.umlusecase.umlusecaseview.uml"/>
+  <reference from="Ydrjzl/xKkW90vgXcsiwGw" to="RNQVTSdutEShC4O8Q6F46g" type="container.containedviews.umlsystemview.umlusecaseview.uml"/>
+  <reference from="0yjCg6A8UEuCXwy38Y0inA" to="xFBLNaaHfE+Ra14PPE4aKw" type="owner.models.package.model.core"/>
+  <reference from="xFBLNaaHfE+Ra14PPE4aKw" to="euzUPU8Vb0+cvT6jXJtdBw" type="model.views.umlusecase.umlusecaseview.uml"/>
+  <reference from="Ydrjzl/xKkW90vgXcsiwGw" to="euzUPU8Vb0+cvT6jXJtdBw" type="container.containedviews.umlsystemview.umlusecaseview.uml"/>
+  <reference from="0yjCg6A8UEuCXwy38Y0inA" to="MNhnsYBFK0a8e4Snwk14Cg" type="owner.models.package.model.core"/>
+  <reference from="MNhnsYBFK0a8e4Snwk14Cg" to="B0iSJTCW5Umm4a+do9inSQ" type="model.views.umlusecase.umlusecaseview.uml"/>
+  <reference from="Ydrjzl/xKkW90vgXcsiwGw" to="B0iSJTCW5Umm4a+do9inSQ" type="container.containedviews.umlsystemview.umlusecaseview.uml"/>
+  <reference from="cTZfgDXC2kamzj+VPVRlJw" to="BTE7epMLEUeZ9ETRa1qIaw" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="cTZfgDXC2kamzj+VPVRlJw" to="EKNNPEYvmEmUbw8hAk51NA" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="cTZfgDXC2kamzj+VPVRlJw" to="RnBu7bqa8UyorhsGYCk7bg" type="outgoing.head.edgeview.nodeview.core"/>
+  <reference from="cTZfgDXC2kamzj+VPVRlJw" to="B0iSJTCW5Umm4a+do9inSQ" type="incoming.tail.edgeview.nodeview.core"/>
+  <reference from="KooJhMynj06e1kj115MkFQ" to="cTZfgDXC2kamzj+VPVRlJw" type="diagram.edges.umlusecasediagramview.umldependencyview.uml"/>
+  <reference from="imiNPltsRUmhgH8lc6Nquw" to="cTZfgDXC2kamzj+VPVRlJw" type="model.views.umldependency.umldependencyview.uml"/>
+  <reference from="k4Vh/KOfD0qAfU42vrpX/g" to="yt6SSd5bT0eVDBni2g5axg" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="k4Vh/KOfD0qAfU42vrpX/g" to="yCZIMvHSH02CjPT/aU3ejg" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="k4Vh/KOfD0qAfU42vrpX/g" to="77peCxPBYEW/6XlNZyit7w" type="outgoing.head.edgeview.nodeview.core"/>
+  <reference from="k4Vh/KOfD0qAfU42vrpX/g" to="RNQVTSdutEShC4O8Q6F46g" type="incoming.tail.edgeview.nodeview.core"/>
+  <reference from="KooJhMynj06e1kj115MkFQ" to="k4Vh/KOfD0qAfU42vrpX/g" type="diagram.edges.umlusecasediagramview.umldependencyview.uml"/>
+  <reference from="Wq1bRwH6yEOO6DvJrZhT+A" to="k4Vh/KOfD0qAfU42vrpX/g" type="model.views.umldependency.umldependencyview.uml"/>
+  <reference from="tfS/4hfCYkWe5ryOF8aP7A" to="2hNGtrlbU0Kwgps8n7CyEw" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="tfS/4hfCYkWe5ryOF8aP7A" to="GtOOLElXME+R9mH0qHZMZA" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="tfS/4hfCYkWe5ryOF8aP7A" to="77peCxPBYEW/6XlNZyit7w" type="outgoing.head.edgeview.nodeview.core"/>
+  <reference from="tfS/4hfCYkWe5ryOF8aP7A" to="euzUPU8Vb0+cvT6jXJtdBw" type="incoming.tail.edgeview.nodeview.core"/>
+  <reference from="KooJhMynj06e1kj115MkFQ" to="tfS/4hfCYkWe5ryOF8aP7A" type="diagram.edges.umlusecasediagramview.umldependencyview.uml"/>
+  <reference from="rsU2VNcd2kW97BS4IuLitQ" to="tfS/4hfCYkWe5ryOF8aP7A" type="model.views.umldependency.umldependencyview.uml"/>
+  <reference from="0yjCg6A8UEuCXwy38Y0inA" to="D9W2m6F+YUyNoQU5+cu3Pg" type="owner.models.package.model.core"/>
+  <reference from="0yjCg6A8UEuCXwy38Y0inA" to="F0SXkPlrtk+zCSfi3Ggpew" type="owner.models.package.model.core"/>
+  <reference from="F0SXkPlrtk+zCSfi3Ggpew" to="FNQAgoQvCUmXWPr7OUswvw" type="model.views.umlusecase.umlusecaseview.uml"/>
+  <reference from="Ydrjzl/xKkW90vgXcsiwGw" to="FNQAgoQvCUmXWPr7OUswvw" type="container.containedviews.umlsystemview.umlusecaseview.uml"/>
+  <reference from="CdwpJm0NpUCVNmQx1Y+xWw" to="teIYjgByV0KDYv/9BDy3jw" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="CdwpJm0NpUCVNmQx1Y+xWw" to="9xoe2OQ/2k+rUdPWtYKiyA" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="CdwpJm0NpUCVNmQx1Y+xWw" to="TH8Iep+nHU+lg8t4QSZMPA" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="CdwpJm0NpUCVNmQx1Y+xWw" to="n0aBhDyBiUi2ZQpx76XsKQ" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="CdwpJm0NpUCVNmQx1Y+xWw" to="zCeP+0JcjEeyMqU1AJHkdw" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="CdwpJm0NpUCVNmQx1Y+xWw" to="lltGvaqkbkCZ/SFlrUDwUA" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="3iseWDX7JEO2x9j39+96Pw" to="hTFv0eSs3kanUTFIxNDoGw" type="owner.subviews.nodeview.nodeview.core"/>
+  <reference from="CdwpJm0NpUCVNmQx1Y+xWw" to="3iseWDX7JEO2x9j39+96Pw" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="pPqnqT2IJk2jHKA4r3tZHw" to="n9MUzbME4kmxLYYiPFlWlg" type="owner.subviews.nodeview.nodeview.core"/>
+  <reference from="CdwpJm0NpUCVNmQx1Y+xWw" to="pPqnqT2IJk2jHKA4r3tZHw" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="CdwpJm0NpUCVNmQx1Y+xWw" to="4nyIZPteaku/CGULQFAnXQ" type="outgoing.head.edgeview.nodeview.core"/>
+  <reference from="CdwpJm0NpUCVNmQx1Y+xWw" to="FNQAgoQvCUmXWPr7OUswvw" type="incoming.tail.edgeview.nodeview.core"/>
+  <reference from="KooJhMynj06e1kj115MkFQ" to="CdwpJm0NpUCVNmQx1Y+xWw" type="diagram.edges.umlusecasediagramview.umlassociationview.uml"/>
+  <reference from="bqm18ZteokmavZt+czr39A" to="CdwpJm0NpUCVNmQx1Y+xWw" type="model.views.umlassociation.umlassociationview.uml"/>
+  <reference from="0yjCg6A8UEuCXwy38Y0inA" to="mnuoPgYEjU6EQPrPekCvxQ" type="owner.models.package.model.core"/>
+  <reference from="mnuoPgYEjU6EQPrPekCvxQ" to="Wue2gejuWUmq4CIeyyPvEQ" type="model.views.umlusecase.umlusecaseview.uml"/>
+  <reference from="Ydrjzl/xKkW90vgXcsiwGw" to="Wue2gejuWUmq4CIeyyPvEQ" type="container.containedviews.umlsystemview.umlusecaseview.uml"/>
+  <reference from="0yjCg6A8UEuCXwy38Y0inA" to="DJykXrqwi0WJ9mpQFhO75Q" type="owner.models.package.model.core"/>
+  <reference from="DJykXrqwi0WJ9mpQFhO75Q" to="52yzln4anEG5BtYqKExsLQ" type="model.views.umlusecase.umlusecaseview.uml"/>
+  <reference from="Ydrjzl/xKkW90vgXcsiwGw" to="52yzln4anEG5BtYqKExsLQ" type="container.containedviews.umlsystemview.umlusecaseview.uml"/>
+  <reference from="mPgTfIKa00m6yYH4c4/gZw" to="inVNrcQQAUuwPU313bvQcQ" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="mPgTfIKa00m6yYH4c4/gZw" to="7I97uBVPBUG8yvrBuZFxkA" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="mPgTfIKa00m6yYH4c4/gZw" to="FNQAgoQvCUmXWPr7OUswvw" type="outgoing.head.edgeview.nodeview.core"/>
+  <reference from="mPgTfIKa00m6yYH4c4/gZw" to="Wue2gejuWUmq4CIeyyPvEQ" type="incoming.tail.edgeview.nodeview.core"/>
+  <reference from="KooJhMynj06e1kj115MkFQ" to="mPgTfIKa00m6yYH4c4/gZw" type="diagram.edges.umlusecasediagramview.umldependencyview.uml"/>
+  <reference from="4j5/esWOykuDckDTjTr2qQ" to="mPgTfIKa00m6yYH4c4/gZw" type="model.views.umldependency.umldependencyview.uml"/>
+  <reference from="nrxzlkrZ5UKmQ+TPF3Pa+w" to="bjgE4O+3M0Wxuh7Tg2uElA" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="nrxzlkrZ5UKmQ+TPF3Pa+w" to="LEG9lcjjB0m7slNFgWl/Bw" type="owner.subviews.edgeview.nodeview.core"/>
+  <reference from="nrxzlkrZ5UKmQ+TPF3Pa+w" to="FNQAgoQvCUmXWPr7OUswvw" type="outgoing.head.edgeview.nodeview.core"/>
+  <reference from="nrxzlkrZ5UKmQ+TPF3Pa+w" to="52yzln4anEG5BtYqKExsLQ" type="incoming.tail.edgeview.nodeview.core"/>
+  <reference from="KooJhMynj06e1kj115MkFQ" to="nrxzlkrZ5UKmQ+TPF3Pa+w" type="diagram.edges.umlusecasediagramview.umldependencyview.uml"/>
+  <reference from="ycEp9h+upki+fgIDF0wBcg" to="nrxzlkrZ5UKmQ+TPF3Pa+w" type="model.views.umldependency.umldependencyview.uml"/>
+ </references>
+ <object-values>
+  <value-owner id="zqZMp7qLjU+mtYnBDIMtEA">
+   <value name="name">Requirement Model</value>
+   <value name="stereotype">requirementModel</value>
+   <value name="order">1</value>
+  </value-owner>
+  <value-owner id="0yjCg6A8UEuCXwy38Y0inA">
+   <value name="name">Use Case Model</value>
+   <value name="stereotype">usecaseModel</value>
+   <value name="order">2</value>
+  </value-owner>
+  <value-owner id="A9NQ9yilg0CZzCquq0F0pw">
+   <value name="name">Analysis Model</value>
+   <value name="stereotype">analysisModel</value>
+   <value name="order">3</value>
+  </value-owner>
+  <value-owner id="NPdPjyFB4E23WUOp+AGm1A">
+   <value name="name">Design Model</value>
+   <value name="stereotype">designModel</value>
+   <value name="order">4</value>
+  </value-owner>
+  <value-owner id="S2cdukpce0Oo5m+vFni2YQ">
+   <value name="name">Implementation Model</value>
+   <value name="stereotype">implementationModel</value>
+   <value name="order">5</value>
+  </value-owner>
+  <value-owner id="iqU2tDnY/kC/EPp89ItYDA">
+   <value name="name">Deployment Model</value>
+   <value name="stereotype">deploymentModel</value>
+   <value name="order">6</value>
+  </value-owner>
+  <value-owner id="7ZUTvojeREiClfnEJYk3NQ">
+   <value name="name">Test Model</value>
+   <value name="stereotype">testModel</value>
+   <value name="order">7</value>
+  </value-owner>
+  <value-owner id="qijaLM9o6UuhN1rf1Pq2gA">
+   <value name="name">Main</value>
+   <value name="order">1</value>
+  </value-owner>
+  <value-owner id="GlIvcZ5TWE24OZgNn0EC3Q">
+   <value name="name">Main</value>
+   <value name="order">1</value>
+  </value-owner>
+  <value-owner id="BZMoiUGE6kmUqazhfyI4Nw">
+   <value name="name">Main</value>
+   <value name="order">1</value>
+  </value-owner>
+  <value-owner id="KhnfiK7RBEmpWwaxdXC+7w">
+   <value name="name">Main</value>
+   <value name="order">1</value>
+   <value name="defaultDiagram">true</value>
+  </value-owner>
+  <value-owner id="hkIipWaq5UW0dV9upsShyQ">
+   <value name="name">Main</value>
+   <value name="order">1</value>
+  </value-owner>
+  <value-owner id="EOvT25xyh0O+XARnYbDdhw">
+   <value name="name">Main</value>
+   <value name="order">1</value>
+  </value-owner>
+  <value-owner id="Mw22nHsUvUW1lv0XEogngA">
+   <value name="name">Test</value>
+   <value name="order">1</value>
+  </value-owner>
+  <value-owner id="iPVluT+mNkSKTlZf2e9zyg">
+   <value name="name">polls</value>
+   <value name="order">3</value>
+  </value-owner>
+  <value-owner id="Ydrjzl/xKkW90vgXcsiwGw">
+   <value name="rendering">{&quot;bounds&quot;: &quot;290,20,831,531&quot;,&quot;model&quot;: &quot;iPVluT+mNkSKTlZf2e9zyg&quot;,&quot;name&quot;: &quot;polls&quot;,&quot;render&quot;: [{&quot;bounds&quot;: &quot;290,20,831,531&quot;,&quot;fillColor&quot;: &quot;240,240,240,64&quot;,&quot;lineColor&quot;: &quot;64,64,64,255&quot;,&quot;type&quot;: &quot;Rect&quot;},{&quot;bounds&quot;: &quot;693,25,26,16&quot;,&quot;fontSize&quot;: &quot;10&quot;,&quot;text&quot;: &quot;polls&quot;,&quot;type&quot;: &quot;Text&quot;}],&quot;type&quot;: &quot;UMLSystemView&quot;}</value>
+   <value name="bounds">290,20,831,531</value>
+  </value-owner>
+  <value-owner id="LQp1vKiZHUmr5R/dsjxNpw">
+   <value name="name">관리자</value>
+   <value name="order">4</value>
+  </value-owner>
+  <value-owner id="4nyIZPteaku/CGULQFAnXQ">
+   <value name="rendering">{&quot;bounds&quot;: &quot;110,11,131,211&quot;,&quot;model&quot;: &quot;LQp1vKiZHUmr5R/dsjxNpw&quot;,&quot;name&quot;: &quot;관리자&quot;,&quot;render&quot;: [{&quot;bounds&quot;: &quot;158,211,36,11&quot;,&quot;fontStyle&quot;: &quot;2&quot;,&quot;text&quot;: &quot;관리자&quot;,&quot;type&quot;: &quot;Text&quot;},{&quot;bounds&quot;: &quot;130,10,89,196&quot;,&quot;path&quot;: &quot;shapes/actor.png&quot;,&quot;preserveRatio&quot;: &quot;true&quot;,&quot;type&quot;: &quot;Image&quot;}],&quot;type&quot;: &quot;UMLActorView&quot;}</value>
+   <value name="bounds">110,11,131,211</value>
+  </value-owner>
+  <value-owner id="rgk0YVyY40qMMa4aExc16w">
+   <value name="name">사용자</value>
+   <value name="order">5</value>
+  </value-owner>
+  <value-owner id="xRLv1IiZZ0OkyOXWjOWyLQ">
+   <value name="rendering">{&quot;bounds&quot;: &quot;110,270,131,231&quot;,&quot;model&quot;: &quot;rgk0YVyY40qMMa4aExc16w&quot;,&quot;name&quot;: &quot;사용자&quot;,&quot;render&quot;: [{&quot;bounds&quot;: &quot;158,490,36,11&quot;,&quot;fontStyle&quot;: &quot;2&quot;,&quot;text&quot;: &quot;사용자&quot;,&quot;type&quot;: &quot;Text&quot;},{&quot;bounds&quot;: &quot;125,270,99,216&quot;,&quot;path&quot;: &quot;shapes/actor.png&quot;,&quot;preserveRatio&quot;: &quot;true&quot;,&quot;type&quot;: &quot;Image&quot;}],&quot;type&quot;: &quot;UMLActorView&quot;}</value>
+   <value name="bounds">110,270,131,231</value>
+  </value-owner>
+  <value-owner id="S+zyI9nLakCQjDXUPBMI5Q">
+   <value name="name">설문조사선택</value>
+   <value name="order">6</value>
+  </value-owner>
+  <value-owner id="wXNuMrQ01EKLb/mIh8AvNA">
+   <value name="rendering">{&quot;bounds&quot;: &quot;345,420,174,106&quot;,&quot;model&quot;: &quot;S+zyI9nLakCQjDXUPBMI5Q&quot;,&quot;name&quot;: &quot;설문조사선택&quot;,&quot;render&quot;: [{&quot;bounds&quot;: &quot;396,515,72,11&quot;,&quot;fontStyle&quot;: &quot;2&quot;,&quot;text&quot;: &quot;설문조사선택&quot;,&quot;type&quot;: &quot;Text&quot;},{&quot;bounds&quot;: &quot;345,425,174,80&quot;,&quot;path&quot;: &quot;shapes/usecase.png&quot;,&quot;preserveRatio&quot;: &quot;true&quot;,&quot;type&quot;: &quot;Image&quot;}],&quot;type&quot;: &quot;UMLUseCaseView&quot;}</value>
+   <value name="bounds">50,395,174,106</value>
+  </value-owner>
+  <value-owner id="3iSUnzA5lEyOumuWBQ9Rbg">
+   <value name="name">설문조사질문제작</value>
+   <value name="order">7</value>
+  </value-owner>
+  <value-owner id="77peCxPBYEW/6XlNZyit7w">
+   <value name="rendering">{&quot;bounds&quot;: &quot;518,323,162,98&quot;,&quot;model&quot;: &quot;3iSUnzA5lEyOumuWBQ9Rbg&quot;,&quot;name&quot;: &quot;설문조사질문제작&quot;,&quot;render&quot;: [{&quot;bounds&quot;: &quot;551,410,96,11&quot;,&quot;fontStyle&quot;: &quot;2&quot;,&quot;text&quot;: &quot;설문조사질문제작&quot;,&quot;type&quot;: &quot;Text&quot;},{&quot;bounds&quot;: &quot;518,326,162,75&quot;,&quot;path&quot;: &quot;shapes/usecase.png&quot;,&quot;preserveRatio&quot;: &quot;true&quot;,&quot;type&quot;: &quot;Image&quot;}],&quot;type&quot;: &quot;UMLUseCaseView&quot;}</value>
+   <value name="bounds">223,298,162,98</value>
+  </value-owner>
+  <value-owner id="0vEny+gN6UCLX+/z2ON5bQ">
+   <value name="name">선택</value>
+   <value name="order">8</value>
+  </value-owner>
+  <value-owner id="sfpGcocK9k6uBK/pLE7KmQ">
+   <value name="rendering">{&quot;bounds&quot;: &quot;616,465,186,71&quot;,&quot;model&quot;: &quot;0vEny+gN6UCLX+/z2ON5bQ&quot;,&quot;name&quot;: &quot;선택&quot;,&quot;render&quot;: [{&quot;bounds&quot;: &quot;697,525,24,11&quot;,&quot;fontStyle&quot;: &quot;2&quot;,&quot;text&quot;: &quot;선택&quot;,&quot;type&quot;: &quot;Text&quot;},{&quot;bounds&quot;: &quot;648,465,120,56&quot;,&quot;path&quot;: &quot;shapes/usecase.png&quot;,&quot;preserveRatio&quot;: &quot;true&quot;,&quot;type&quot;: &quot;Image&quot;}],&quot;type&quot;: &quot;UMLUseCaseView&quot;}</value>
+   <value name="bounds">321,440,186,71</value>
+  </value-owner>
+  <value-owner id="BJdLI3FU40CBD3Qe9E5Wiw">
+   <value name="rendering">{&quot;model&quot;: &quot;QYOj0Sef00GswDqFecgpOg&quot;,&quot;name&quot;: &quot;&quot;,&quot;render&quot;: [{&quot;lineWidth&quot;: &quot;0&quot;,&quot;points&quot;: &quot;240,407,345,443,&quot;,&quot;type&quot;: &quot;Line&quot;}],&quot;type&quot;: &quot;UMLAssociationView&quot;}</value>
+   <value name="points">240,407,345,443,</value>
+  </value-owner>
+  <value-owner id="b+tRIf1MLk+KVWNh+aKLfQ">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">280,405,36,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{name}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditAssociationName(view, model, text)</value>
+  </value-owner>
+  <value-owner id="SU2ZeXl5kEq3XWBvXP00uw">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">256,391,95,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-30</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">&lt;&lt;{stereotype}&gt;&gt;</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditStereotype(view, model, text)</value>
+  </value-owner>
+  <value-owner id="nT+8j/HbrUyqpf6/kw3fmw">
+   <value name="name">fromNameView</value>
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">254,400,59,13</value>
+   <value name="anchor">16</value>
+   <value name="anchor-offset">40,-15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{fromName}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+  </value-owner>
+  <value-owner id="Rxb0T1TlsU6dVmk7C3PkBA">
+   <value name="name">fromMultiView</value>
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">214,422,81,13</value>
+   <value name="anchor">16</value>
+   <value name="anchor-offset">20,15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{fromMultiplicity}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+  </value-owner>
+  <value-owner id="wSwrb+ElO0+gam2LjXsB2w">
+   <value name="name">toNameView</value>
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">289,410,47,13</value>
+   <value name="anchor">18</value>
+   <value name="anchor-offset">40,15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{toName}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+  </value-owner>
+  <value-owner id="j7qVeYtUE0y23Remv/ZRgg">
+   <value name="name">toMultiView</value>
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">287,445,69,13</value>
+   <value name="anchor">18</value>
+   <value name="anchor-offset">20,-15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{toMultiplicity}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+  </value-owner>
+  <value-owner id="rq50fQIXMUOOh/T2+lAzhg">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">241,402,15,11</value>
+   <value name="anchor">21</value>
+   <value name="autosize">true</value>
+   <value name="movable">false</value>
+   <value name="resizable">false</value>
+   <value name="auto-suppress">true</value>
+   <value name="serializable">true</value>
+  </value-owner>
+  <value-owner id="FA2gBfKzV0iLjp6Axw98uw">
+   <value name="visible">false</value>
+   <value name="bounds">0,0,15,11</value>
+   <value name="dock">5</value>
+   <value name="border-width">0</value>
+   <value name="auto-suppress">true</value>
+   <value name="target">{fromQualifiers}</value>
+   <value name="sub-on-update">uml.updateAttribute(view, model)</value>
+   <value name="sub-on-edit-text">uml.onEditAttribute(view, model, text)</value>
+  </value-owner>
+  <value-owner id="0JbIaZqq20iauwngAoT7QA">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">338,438,15,11</value>
+   <value name="anchor">22</value>
+   <value name="autosize">true</value>
+   <value name="movable">false</value>
+   <value name="resizable">false</value>
+   <value name="auto-suppress">true</value>
+   <value name="serializable">true</value>
+  </value-owner>
+  <value-owner id="yMEBpvQFZEu9ADPj2i1HRQ">
+   <value name="visible">false</value>
+   <value name="bounds">0,0,15,11</value>
+   <value name="dock">5</value>
+   <value name="border-width">0</value>
+   <value name="auto-suppress">true</value>
+   <value name="target">{toQualifiers}</value>
+   <value name="sub-on-update">uml.updateAttribute(view, model)</value>
+   <value name="sub-on-edit-text">uml.onEditAttribute(view, model, text)</value>
+  </value-owner>
+  <value-owner id="GmeurFOspU2oTBssDYv6mw">
+   <value name="rendering">{&quot;model&quot;: &quot;dXBSJXmPAEqBIhhHf7HeTw&quot;,&quot;name&quot;: &quot;&quot;,&quot;render&quot;: [{&quot;lineWidth&quot;: &quot;0&quot;,&quot;points&quot;: &quot;240,155,518,323,&quot;,&quot;type&quot;: &quot;Line&quot;}],&quot;type&quot;: &quot;UMLAssociationView&quot;}</value>
+   <value name="points">240,155,518,323,</value>
+  </value-owner>
+  <value-owner id="djaWAOTLkEGld6coWk0iHg">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">369,220,36,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{name}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditAssociationName(view, model, text)</value>
+  </value-owner>
+  <value-owner id="9stZvgnZeUu1crHITxk6tQ">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">348,207,95,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-30</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">&lt;&lt;{stereotype}&gt;&gt;</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditStereotype(view, model, text)</value>
+  </value-owner>
+  <value-owner id="7TLF4WTZkUiMnbXB+3nH9A">
+   <value name="name">fromNameView</value>
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">253,157,59,13</value>
+   <value name="anchor">16</value>
+   <value name="anchor-offset">40,-15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{fromName}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+  </value-owner>
+  <value-owner id="6lULO40tz0Cyq54z+3qLtw">
+   <value name="name">fromMultiView</value>
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">209,172,81,13</value>
+   <value name="anchor">16</value>
+   <value name="anchor-offset">20,15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{fromMultiplicity}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+  </value-owner>
+  <value-owner id="YKRyChwT/0iqkx18VFQdYA">
+   <value name="name">toNameView</value>
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">469,283,47,13</value>
+   <value name="anchor">18</value>
+   <value name="anchor-offset">40,15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{toName}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+  </value-owner>
+  <value-owner id="kGPy0N6mOky1aO68UKz9Kg">
+   <value name="name">toMultiView</value>
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">459,319,69,13</value>
+   <value name="anchor">18</value>
+   <value name="anchor-offset">20,-15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{toMultiplicity}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+  </value-owner>
+  <value-owner id="VnGnBbgDFkC6XCwyztmTYQ">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">241,150,15,11</value>
+   <value name="anchor">21</value>
+   <value name="autosize">true</value>
+   <value name="movable">false</value>
+   <value name="resizable">false</value>
+   <value name="auto-suppress">true</value>
+   <value name="serializable">true</value>
+  </value-owner>
+  <value-owner id="GLaBPyE58kCy2E0mur18Dw">
+   <value name="visible">false</value>
+   <value name="bounds">0,0,15,11</value>
+   <value name="dock">5</value>
+   <value name="border-width">0</value>
+   <value name="auto-suppress">true</value>
+   <value name="target">{fromQualifiers}</value>
+   <value name="sub-on-update">uml.updateAttribute(view, model)</value>
+   <value name="sub-on-edit-text">uml.onEditAttribute(view, model, text)</value>
+  </value-owner>
+  <value-owner id="0j0LLKf97E6KZHJv0RnrDw">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">511,318,15,11</value>
+   <value name="anchor">22</value>
+   <value name="autosize">true</value>
+   <value name="movable">false</value>
+   <value name="resizable">false</value>
+   <value name="auto-suppress">true</value>
+   <value name="serializable">true</value>
+  </value-owner>
+  <value-owner id="yLwPW25OOEmssvLNjA2C/w">
+   <value name="visible">false</value>
+   <value name="bounds">0,0,15,11</value>
+   <value name="dock">5</value>
+   <value name="border-width">0</value>
+   <value name="auto-suppress">true</value>
+   <value name="target">{toQualifiers}</value>
+   <value name="sub-on-update">uml.updateAttribute(view, model)</value>
+   <value name="sub-on-edit-text">uml.onEditAttribute(view, model, text)</value>
+  </value-owner>
+  <value-owner id="xVZU4qCB60ez1I+iGeTXUA">
+   <value name="rendering">{&quot;model&quot;: &quot;SeZm1peQTkOn4f8msZ1q9g&quot;,&quot;name&quot;: &quot;&quot;,&quot;render&quot;: [{&quot;lineStyle&quot;: &quot;2&quot;,&quot;lineWidth&quot;: &quot;0&quot;,&quot;points&quot;: &quot;518,481,616,491,&quot;,&quot;type&quot;: &quot;Line&quot;},{&quot;bounds&quot;: &quot;616,482,16,18&quot;,&quot;path&quot;: &quot;:/images/dummy/arrow.svg&quot;,&quot;rotate&quot;: &quot;-2641&quot;,&quot;type&quot;: &quot;EdgeEnd&quot;}],&quot;type&quot;: &quot;UMLDependencyView&quot;}</value>
+   <value name="points">518,481,616,491,</value>
+  </value-owner>
+  <value-owner id="m/Re9lnotkyGFDJ9sSL5cw">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">551,465,36,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{name}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditName(view, model, text)</value>
+  </value-owner>
+  <value-owner id="XzrPVVGOD0a563arp97tcg">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">523,450,95,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-30</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">&lt;&lt;{stereotype}&gt;&gt;</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditStereotype(view, model, text)</value>
+  </value-owner>
+  <value-owner id="CRjyA4/DMEa6G5a00Y/vKA">
+   <value name="name">결과도출</value>
+   <value name="order">8</value>
+  </value-owner>
+  <value-owner id="ZHgxnv8vt0W5mhoLq+WYjg">
+   <value name="rendering">{&quot;bounds&quot;: &quot;955,433,140,93&quot;,&quot;model&quot;: &quot;CRjyA4/DMEa6G5a00Y/vKA&quot;,&quot;name&quot;: &quot;결과도출&quot;,&quot;render&quot;: [{&quot;bounds&quot;: &quot;1001,515,48,11&quot;,&quot;fontStyle&quot;: &quot;2&quot;,&quot;text&quot;: &quot;결과도출&quot;,&quot;type&quot;: &quot;Text&quot;},{&quot;bounds&quot;: &quot;955,439,140,65&quot;,&quot;path&quot;: &quot;shapes/usecase.png&quot;,&quot;preserveRatio&quot;: &quot;true&quot;,&quot;type&quot;: &quot;Image&quot;}],&quot;type&quot;: &quot;UMLUseCaseView&quot;}</value>
+   <value name="bounds">660,408,140,93</value>
+  </value-owner>
+  <value-owner id="nHKcEb8QtUCcOi39uFoLcQ">
+   <value name="rendering">{&quot;model&quot;: &quot;AqTEiv4GWES+8ViBQHa6cA&quot;,&quot;name&quot;: &quot;&quot;,&quot;render&quot;: [{&quot;lineWidth&quot;: &quot;0&quot;,&quot;points&quot;: &quot;801,494,955,484,&quot;,&quot;type&quot;: &quot;Line&quot;},{&quot;bounds&quot;: &quot;955,472,17,24&quot;,&quot;path&quot;: &quot;:/images/dummy/arrow_triangle.svg&quot;,&quot;rotate&quot;: &quot;862&quot;,&quot;type&quot;: &quot;EdgeEnd&quot;}],&quot;type&quot;: &quot;UMLGeneralizationView&quot;}</value>
+   <value name="points">801,494,955,484,</value>
+  </value-owner>
+  <value-owner id="6vu/Ev9eNUWw3Lutv84a7w">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">859,468,36,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{name}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditName(view, model, text)</value>
+  </value-owner>
+  <value-owner id="1CfmlapjkUKE3jFmCg9mRA">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">829,453,95,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-30</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">&lt;&lt;{stereotype}&gt;&gt;</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditStereotype(view, model, text)</value>
+  </value-owner>
+  <value-owner id="bYLHsRDoN0m8MZMOaEMTtQ">
+   <value name="name">회원관리</value>
+   <value name="order">9</value>
+  </value-owner>
+  <value-owner id="RnBu7bqa8UyorhsGYCk7bg">
+   <value name="rendering">{&quot;bounds&quot;: &quot;427,192,139,71&quot;,&quot;model&quot;: &quot;bYLHsRDoN0m8MZMOaEMTtQ&quot;,&quot;name&quot;: &quot;회원관리&quot;,&quot;render&quot;: [{&quot;bounds&quot;: &quot;473,252,48,11&quot;,&quot;fontStyle&quot;: &quot;2&quot;,&quot;text&quot;: &quot;회원관리&quot;,&quot;type&quot;: &quot;Text&quot;},{&quot;bounds&quot;: &quot;436,192,120,56&quot;,&quot;path&quot;: &quot;shapes/usecase.png&quot;,&quot;preserveRatio&quot;: &quot;true&quot;,&quot;type&quot;: &quot;Image&quot;}],&quot;type&quot;: &quot;UMLUseCaseView&quot;}</value>
+   <value name="bounds">132,167,139,71</value>
+  </value-owner>
+  <value-owner id="l9YhWXajLE270W2vEAqEYw">
+   <value name="rendering">{&quot;model&quot;: &quot;JF2FI9U1q0u6TV4MUGxamg&quot;,&quot;name&quot;: &quot;&quot;,&quot;render&quot;: [{&quot;lineWidth&quot;: &quot;0&quot;,&quot;points&quot;: &quot;240,138,427,203,&quot;,&quot;type&quot;: &quot;Line&quot;}],&quot;type&quot;: &quot;UMLAssociationView&quot;}</value>
+   <value name="points">240,138,427,203,</value>
+  </value-owner>
+  <value-owner id="sgq+wPec80ySdmKigvMYTQ">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">321,151,36,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{name}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditAssociationName(view, model, text)</value>
+  </value-owner>
+  <value-owner id="Nl7n/Npb5k+EFtnh1GxcFw">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">297,137,95,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-30</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">&lt;&lt;{stereotype}&gt;&gt;</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditStereotype(view, model, text)</value>
+  </value-owner>
+  <value-owner id="hg9kf86h5k+Y318/uBft4w">
+   <value name="name">fromNameView</value>
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">254,131,59,13</value>
+   <value name="anchor">16</value>
+   <value name="anchor-offset">40,-15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{fromName}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+  </value-owner>
+  <value-owner id="YlxqYQuHuUa3TpFt3uxYnA">
+   <value name="name">fromMultiView</value>
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">214,153,81,13</value>
+   <value name="anchor">16</value>
+   <value name="anchor-offset">20,15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{fromMultiplicity}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+  </value-owner>
+  <value-owner id="b3RFo192ukefSmSMQd1CPw">
+   <value name="name">toNameView</value>
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">371,170,47,13</value>
+   <value name="anchor">18</value>
+   <value name="anchor-offset">40,15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{toName}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+  </value-owner>
+  <value-owner id="CkyWNORHpUSKpbd3qz8f8w">
+   <value name="name">toMultiView</value>
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">369,205,69,13</value>
+   <value name="anchor">18</value>
+   <value name="anchor-offset">20,-15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{toMultiplicity}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+  </value-owner>
+  <value-owner id="oBlLw5+bgkqSGxhM0up1Sw">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">241,133,15,11</value>
+   <value name="anchor">21</value>
+   <value name="autosize">true</value>
+   <value name="movable">false</value>
+   <value name="resizable">false</value>
+   <value name="auto-suppress">true</value>
+   <value name="serializable">true</value>
+  </value-owner>
+  <value-owner id="yFdM/n58Y0ehoKEaTVYuJQ">
+   <value name="visible">false</value>
+   <value name="bounds">0,0,15,11</value>
+   <value name="dock">5</value>
+   <value name="border-width">0</value>
+   <value name="auto-suppress">true</value>
+   <value name="target">{fromQualifiers}</value>
+   <value name="sub-on-update">uml.updateAttribute(view, model)</value>
+   <value name="sub-on-edit-text">uml.onEditAttribute(view, model, text)</value>
+  </value-owner>
+  <value-owner id="gt/H0md6SEy2eahtILnQSg">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">420,198,15,11</value>
+   <value name="anchor">22</value>
+   <value name="autosize">true</value>
+   <value name="movable">false</value>
+   <value name="resizable">false</value>
+   <value name="auto-suppress">true</value>
+   <value name="serializable">true</value>
+  </value-owner>
+  <value-owner id="yD5En1u0bUOz9E75ERciEw">
+   <value name="visible">false</value>
+   <value name="bounds">0,0,15,11</value>
+   <value name="dock">5</value>
+   <value name="border-width">0</value>
+   <value name="auto-suppress">true</value>
+   <value name="target">{toQualifiers}</value>
+   <value name="sub-on-update">uml.updateAttribute(view, model)</value>
+   <value name="sub-on-edit-text">uml.onEditAttribute(view, model, text)</value>
+  </value-owner>
+  <value-owner id="nFS3Qse7AE6Vp9Gl46BdQg">
+   <value name="name">CHOICES제작/수정</value>
+   <value name="order">10</value>
+  </value-owner>
+  <value-owner id="RNQVTSdutEShC4O8Q6F46g">
+   <value name="rendering">{&quot;bounds&quot;: &quot;915,290,166,66&quot;,&quot;model&quot;: &quot;nFS3Qse7AE6Vp9Gl46BdQg&quot;,&quot;name&quot;: &quot;CHOICES제작/수정&quot;,&quot;render&quot;: [{&quot;bounds&quot;: &quot;947,343,102,13&quot;,&quot;fontStyle&quot;: &quot;2&quot;,&quot;text&quot;: &quot;CHOICES제작/수정&quot;,&quot;type&quot;: &quot;Text&quot;},{&quot;bounds&quot;: &quot;945,290,105,49&quot;,&quot;path&quot;: &quot;shapes/usecase.png&quot;,&quot;preserveRatio&quot;: &quot;true&quot;,&quot;type&quot;: &quot;Image&quot;}],&quot;type&quot;: &quot;UMLUseCaseView&quot;}</value>
+   <value name="bounds">620,265,166,66</value>
+  </value-owner>
+  <value-owner id="xFBLNaaHfE+Ra14PPE4aKw">
+   <value name="name">QUESTION제작/수정</value>
+   <value name="order">11</value>
+  </value-owner>
+  <value-owner id="euzUPU8Vb0+cvT6jXJtdBw">
+   <value name="rendering">{&quot;bounds&quot;: &quot;821,375,166,71&quot;,&quot;model&quot;: &quot;xFBLNaaHfE+Ra14PPE4aKw&quot;,&quot;name&quot;: &quot;QUESTION제작/수정&quot;,&quot;render&quot;: [{&quot;bounds&quot;: &quot;849,433,110,13&quot;,&quot;fontStyle&quot;: &quot;2&quot;,&quot;text&quot;: &quot;QUESTION제작/수정&quot;,&quot;type&quot;: &quot;Text&quot;},{&quot;bounds&quot;: &quot;845,375,116,54&quot;,&quot;path&quot;: &quot;shapes/usecase.png&quot;,&quot;preserveRatio&quot;: &quot;true&quot;,&quot;type&quot;: &quot;Image&quot;}],&quot;type&quot;: &quot;UMLUseCaseView&quot;}</value>
+   <value name="bounds">526,350,166,71</value>
+  </value-owner>
+  <value-owner id="MNhnsYBFK0a8e4Snwk14Cg">
+   <value name="name">회원GROUPING/수정</value>
+   <value name="order">13</value>
+  </value-owner>
+  <value-owner id="B0iSJTCW5Umm4a+do9inSQ">
+   <value name="rendering">{&quot;bounds&quot;: &quot;815,212,171,79&quot;,&quot;model&quot;: &quot;MNhnsYBFK0a8e4Snwk14Cg&quot;,&quot;name&quot;: &quot;회원GROUPING/수정&quot;,&quot;render&quot;: [{&quot;bounds&quot;: &quot;844,278,113,13&quot;,&quot;fontStyle&quot;: &quot;2&quot;,&quot;text&quot;: &quot;회원GROUPING/수정&quot;,&quot;type&quot;: &quot;Text&quot;},{&quot;bounds&quot;: &quot;833,212,133,62&quot;,&quot;path&quot;: &quot;shapes/usecase.png&quot;,&quot;preserveRatio&quot;: &quot;true&quot;,&quot;type&quot;: &quot;Image&quot;}],&quot;type&quot;: &quot;UMLUseCaseView&quot;}</value>
+   <value name="bounds">520,187,171,79</value>
+  </value-owner>
+  <value-owner id="cTZfgDXC2kamzj+VPVRlJw">
+   <value name="rendering">{&quot;model&quot;: &quot;imiNPltsRUmhgH8lc6Nquw&quot;,&quot;name&quot;: &quot;&quot;,&quot;render&quot;: [{&quot;lineStyle&quot;: &quot;2&quot;,&quot;lineWidth&quot;: &quot;0&quot;,&quot;points&quot;: &quot;565,231,815,246,&quot;,&quot;type&quot;: &quot;Line&quot;},{&quot;bounds&quot;: &quot;815,237,16,18&quot;,&quot;path&quot;: &quot;:/images/dummy/arrow.svg&quot;,&quot;rotate&quot;: &quot;-2665&quot;,&quot;type&quot;: &quot;EdgeEnd&quot;}],&quot;type&quot;: &quot;UMLDependencyView&quot;}</value>
+   <value name="points">565,231,815,246,</value>
+  </value-owner>
+  <value-owner id="BTE7epMLEUeZ9ETRa1qIaw">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">673,218,36,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{name}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditName(view, model, text)</value>
+  </value-owner>
+  <value-owner id="EKNNPEYvmEmUbw8hAk51NA">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">645,203,95,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-30</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">&lt;&lt;{stereotype}&gt;&gt;</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditStereotype(view, model, text)</value>
+  </value-owner>
+  <value-owner id="k4Vh/KOfD0qAfU42vrpX/g">
+   <value name="rendering">{&quot;model&quot;: &quot;Wq1bRwH6yEOO6DvJrZhT+A&quot;,&quot;name&quot;: &quot;&quot;,&quot;render&quot;: [{&quot;lineStyle&quot;: &quot;2&quot;,&quot;lineWidth&quot;: &quot;0&quot;,&quot;points&quot;: &quot;679,361,915,332,&quot;,&quot;type&quot;: &quot;Line&quot;},{&quot;bounds&quot;: &quot;915,323,16,18&quot;,&quot;path&quot;: &quot;:/images/dummy/arrow.svg&quot;,&quot;rotate&quot;: &quot;829&quot;,&quot;type&quot;: &quot;EdgeEnd&quot;}],&quot;type&quot;: &quot;UMLDependencyView&quot;}</value>
+   <value name="points">679,361,915,332,</value>
+  </value-owner>
+  <value-owner id="yt6SSd5bT0eVDBni2g5axg">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">777,326,36,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{name}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditName(view, model, text)</value>
+  </value-owner>
+  <value-owner id="yCZIMvHSH02CjPT/aU3ejg">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">746,311,95,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-30</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">&lt;&lt;{stereotype}&gt;&gt;</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditStereotype(view, model, text)</value>
+  </value-owner>
+  <value-owner id="tfS/4hfCYkWe5ryOF8aP7A">
+   <value name="rendering">{&quot;model&quot;: &quot;rsU2VNcd2kW97BS4IuLitQ&quot;,&quot;name&quot;: &quot;&quot;,&quot;render&quot;: [{&quot;lineStyle&quot;: &quot;2&quot;,&quot;lineWidth&quot;: &quot;0&quot;,&quot;points&quot;: &quot;679,381,821,399,&quot;,&quot;type&quot;: &quot;Line&quot;},{&quot;bounds&quot;: &quot;821,390,16,18&quot;,&quot;path&quot;: &quot;:/images/dummy/arrow.svg&quot;,&quot;rotate&quot;: &quot;-2627&quot;,&quot;type&quot;: &quot;EdgeEnd&quot;}],&quot;type&quot;: &quot;UMLDependencyView&quot;}</value>
+   <value name="points">679,381,821,399,</value>
+  </value-owner>
+  <value-owner id="2hNGtrlbU0Kwgps8n7CyEw">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">734,369,36,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{name}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditName(view, model, text)</value>
+  </value-owner>
+  <value-owner id="GtOOLElXME+R9mH0qHZMZA">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">707,354,95,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-30</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">&lt;&lt;{stereotype}&gt;&gt;</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditStereotype(view, model, text)</value>
+  </value-owner>
+  <value-owner id="D9W2m6F+YUyNoQU5+cu3Pg">
+   <value name="name"></value>
+   <value name="order">13</value>
+  </value-owner>
+  <value-owner id="F0SXkPlrtk+zCSfi3Ggpew">
+   <value name="name">관리자 LOGIN</value>
+   <value name="order">14</value>
+  </value-owner>
+  <value-owner id="FNQAgoQvCUmXWPr7OUswvw">
+   <value name="rendering">{&quot;bounds&quot;: &quot;546,75,190,84&quot;,&quot;model&quot;: &quot;F0SXkPlrtk+zCSfi3Ggpew&quot;,&quot;name&quot;: &quot;관리자 LOGIN&quot;,&quot;render&quot;: [{&quot;bounds&quot;: &quot;605,146,73,13&quot;,&quot;fontStyle&quot;: &quot;2&quot;,&quot;text&quot;: &quot;관리자 LOGIN&quot;,&quot;type&quot;: &quot;Text&quot;},{&quot;bounds&quot;: &quot;568,75,144,67&quot;,&quot;path&quot;: &quot;shapes/usecase.png&quot;,&quot;preserveRatio&quot;: &quot;true&quot;,&quot;type&quot;: &quot;Image&quot;}],&quot;type&quot;: &quot;UMLUseCaseView&quot;}</value>
+   <value name="bounds">251,50,190,84</value>
+  </value-owner>
+  <value-owner id="CdwpJm0NpUCVNmQx1Y+xWw">
+   <value name="rendering">{&quot;model&quot;: &quot;bqm18ZteokmavZt+czr39A&quot;,&quot;name&quot;: &quot;&quot;,&quot;render&quot;: [{&quot;lineWidth&quot;: &quot;0&quot;,&quot;points&quot;: &quot;240,116,546,116,&quot;,&quot;type&quot;: &quot;Line&quot;}],&quot;type&quot;: &quot;UMLAssociationView&quot;}</value>
+   <value name="points">240,116,546,116,</value>
+  </value-owner>
+  <value-owner id="teIYjgByV0KDYv/9BDy3jw">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">375,95,36,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{name}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditAssociationName(view, model, text)</value>
+  </value-owner>
+  <value-owner id="9xoe2OQ/2k+rUdPWtYKiyA">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">346,80,95,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-30</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">&lt;&lt;{stereotype}&gt;&gt;</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditStereotype(view, model, text)</value>
+  </value-owner>
+  <value-owner id="TH8Iep+nHU+lg8t4QSZMPA">
+   <value name="name">fromNameView</value>
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">251,95,59,13</value>
+   <value name="anchor">16</value>
+   <value name="anchor-offset">40,-15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{fromName}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+  </value-owner>
+  <value-owner id="n0aBhDyBiUi2ZQpx76XsKQ">
+   <value name="name">fromMultiView</value>
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">220,125,81,13</value>
+   <value name="anchor">16</value>
+   <value name="anchor-offset">20,15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{fromMultiplicity}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+  </value-owner>
+  <value-owner id="zCeP+0JcjEeyMqU1AJHkdw">
+   <value name="name">toNameView</value>
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">483,95,47,13</value>
+   <value name="anchor">18</value>
+   <value name="anchor-offset">40,15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{toName}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+  </value-owner>
+  <value-owner id="lltGvaqkbkCZ/SFlrUDwUA">
+   <value name="name">toMultiView</value>
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">492,125,69,13</value>
+   <value name="anchor">18</value>
+   <value name="anchor-offset">20,-15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{toMultiplicity}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+  </value-owner>
+  <value-owner id="3iseWDX7JEO2x9j39+96Pw">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">241,111,15,11</value>
+   <value name="anchor">21</value>
+   <value name="autosize">true</value>
+   <value name="movable">false</value>
+   <value name="resizable">false</value>
+   <value name="auto-suppress">true</value>
+   <value name="serializable">true</value>
+  </value-owner>
+  <value-owner id="hTFv0eSs3kanUTFIxNDoGw">
+   <value name="visible">false</value>
+   <value name="bounds">0,0,15,11</value>
+   <value name="dock">5</value>
+   <value name="border-width">0</value>
+   <value name="auto-suppress">true</value>
+   <value name="target">{fromQualifiers}</value>
+   <value name="sub-on-update">uml.updateAttribute(view, model)</value>
+   <value name="sub-on-edit-text">uml.onEditAttribute(view, model, text)</value>
+  </value-owner>
+  <value-owner id="pPqnqT2IJk2jHKA4r3tZHw">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">539,111,15,11</value>
+   <value name="anchor">22</value>
+   <value name="autosize">true</value>
+   <value name="movable">false</value>
+   <value name="resizable">false</value>
+   <value name="auto-suppress">true</value>
+   <value name="serializable">true</value>
+  </value-owner>
+  <value-owner id="n9MUzbME4kmxLYYiPFlWlg">
+   <value name="visible">false</value>
+   <value name="bounds">0,0,15,11</value>
+   <value name="dock">5</value>
+   <value name="border-width">0</value>
+   <value name="auto-suppress">true</value>
+   <value name="target">{toQualifiers}</value>
+   <value name="sub-on-update">uml.updateAttribute(view, model)</value>
+   <value name="sub-on-edit-text">uml.onEditAttribute(view, model, text)</value>
+  </value-owner>
+  <value-owner id="mnuoPgYEjU6EQPrPekCvxQ">
+   <value name="name">LOGOUT</value>
+   <value name="order">15</value>
+  </value-owner>
+  <value-owner id="Wue2gejuWUmq4CIeyyPvEQ">
+   <value name="rendering">{&quot;bounds&quot;: &quot;856,20,166,74&quot;,&quot;model&quot;: &quot;mnuoPgYEjU6EQPrPekCvxQ&quot;,&quot;name&quot;: &quot;LOGOUT&quot;,&quot;render&quot;: [{&quot;bounds&quot;: &quot;917,81,45,13&quot;,&quot;fontStyle&quot;: &quot;2&quot;,&quot;text&quot;: &quot;LOGOUT&quot;,&quot;type&quot;: &quot;Text&quot;},{&quot;bounds&quot;: &quot;877,20,122,57&quot;,&quot;path&quot;: &quot;shapes/usecase.png&quot;,&quot;preserveRatio&quot;: &quot;true&quot;,&quot;type&quot;: &quot;Image&quot;}],&quot;type&quot;: &quot;UMLUseCaseView&quot;}</value>
+   <value name="bounds">561,-5,166,74</value>
+  </value-owner>
+  <value-owner id="DJykXrqwi0WJ9mpQFhO75Q">
+   <value name="name">CHANGE PASSWORD</value>
+   <value name="order">16</value>
+  </value-owner>
+  <value-owner id="52yzln4anEG5BtYqKExsLQ">
+   <value name="rendering">{&quot;bounds&quot;: &quot;920,122,211,81&quot;,&quot;model&quot;: &quot;DJykXrqwi0WJ9mpQFhO75Q&quot;,&quot;name&quot;: &quot;CHANGE PASSWORD&quot;,&quot;render&quot;: [{&quot;bounds&quot;: &quot;970,190,111,13&quot;,&quot;fontStyle&quot;: &quot;2&quot;,&quot;text&quot;: &quot;CHANGE PASSWORD&quot;,&quot;type&quot;: &quot;Text&quot;},{&quot;bounds&quot;: &quot;956,122,137,64&quot;,&quot;path&quot;: &quot;shapes/usecase.png&quot;,&quot;preserveRatio&quot;: &quot;true&quot;,&quot;type&quot;: &quot;Image&quot;}],&quot;type&quot;: &quot;UMLUseCaseView&quot;}</value>
+   <value name="bounds">625,97,211,81</value>
+  </value-owner>
+  <value-owner id="mPgTfIKa00m6yYH4c4/gZw">
+   <value name="rendering">{&quot;model&quot;: &quot;4j5/esWOykuDckDTjTr2qQ&quot;,&quot;name&quot;: &quot;&quot;,&quot;render&quot;: [{&quot;lineStyle&quot;: &quot;2&quot;,&quot;lineWidth&quot;: &quot;0&quot;,&quot;points&quot;: &quot;735,97,856,73,&quot;,&quot;type&quot;: &quot;Line&quot;},{&quot;bounds&quot;: &quot;856,64,16,18&quot;,&quot;path&quot;: &quot;:/images/dummy/arrow.svg&quot;,&quot;rotate&quot;: &quot;787&quot;,&quot;type&quot;: &quot;EdgeEnd&quot;}],&quot;type&quot;: &quot;UMLDependencyView&quot;}</value>
+   <value name="points">735,97,856,73,</value>
+  </value-owner>
+  <value-owner id="inVNrcQQAUuwPU313bvQcQ">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">775,64,36,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{name}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditName(view, model, text)</value>
+  </value-owner>
+  <value-owner id="7I97uBVPBUG8yvrBuZFxkA">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">743,50,95,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-30</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">&lt;&lt;{stereotype}&gt;&gt;</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditStereotype(view, model, text)</value>
+  </value-owner>
+  <value-owner id="nrxzlkrZ5UKmQ+TPF3Pa+w">
+   <value name="rendering">{&quot;model&quot;: &quot;ycEp9h+upki+fgIDF0wBcg&quot;,&quot;name&quot;: &quot;&quot;,&quot;render&quot;: [{&quot;lineStyle&quot;: &quot;2&quot;,&quot;lineWidth&quot;: &quot;0&quot;,&quot;points&quot;: &quot;735,127,920,149,&quot;,&quot;type&quot;: &quot;Line&quot;},{&quot;bounds&quot;: &quot;920,140,16,18&quot;,&quot;path&quot;: &quot;:/images/dummy/arrow.svg&quot;,&quot;rotate&quot;: &quot;-2632&quot;,&quot;type&quot;: &quot;EdgeEnd&quot;}],&quot;type&quot;: &quot;UMLDependencyView&quot;}</value>
+   <value name="points">735,127,920,149,</value>
+  </value-owner>
+  <value-owner id="bjgE4O+3M0Wxuh7Tg2uElA">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">812,117,36,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-15</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">{name}</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditName(view, model, text)</value>
+  </value-owner>
+  <value-owner id="LEG9lcjjB0m7slNFgWl/Bw">
+   <value name="selectable">true</value>
+   <value name="visible">false</value>
+   <value name="bounds">785,102,95,13</value>
+   <value name="anchor">17</value>
+   <value name="anchor-offset">0,-30</value>
+   <value name="text-align">132</value>
+   <value name="meta-text">&lt;&lt;{stereotype}&gt;&gt;</value>
+   <value name="hide-if-empty">true</value>
+   <value name="editable">true</value>
+   <value name="on-edit-text">uml.onEditStereotype(view, model, text)</value>
+  </value-owner>
+ </object-values>
+ <relation-values/>
+</repository>
