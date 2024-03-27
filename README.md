@@ -1,4 +1,5 @@
 직업전문 학원을 다니면서 작성한 프로젝트와 자료들이 있습니다.
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello%20MW's%20git&animation=scaleIn&fontColor=ffffff&fontSize=60" />
     </div>
@@ -8,14 +9,8 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-          <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    <div style="margin: 0 auto; text-align: center;" align= "center"> 
+        이 레포지토리는 JAVA를 활용하여 Spring framework로 만든 프로젝트 및 JAVA project입니다.
           </div>
     </div>
     <div align= "center"> 
