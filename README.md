@@ -8,7 +8,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Introduce </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
         이 레포지토리는 JAVA를 활용하여 Spring framework로 만든 프로젝트 및 JAVA project입니다.
           </div>
